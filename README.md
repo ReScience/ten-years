@@ -26,15 +26,13 @@ Sounds easy? We have good reasons to think this might be more difficult than you
 think. And maybe the first problem you'll have to solve is to find your own source
 code (see the [resources](#resources) section for help).
 
-
 ### Important dates
 
-The challenge will run for a few months and will end on **April 1st, 2020**
-(because we'll need time to review the different submission). We'll organize a
-workshop in Bordeaux (France) sometime in **June 2020** (date not yet settled)
-to present the results. If you intend to participate to the challenge, make
-sure to also come to the workshop to hear some scary stories.
-
+The challenge will run for a few months, until **April 1st, 2020** (because
+we'll need time to review the different submissions). We'll organize a workshop
+in Bordeaux (France) sometime in **June 2020** (date not yet settled) to
+present the results. If you intend to participate to the challenge, make sure
+to also come to the workshop to hear some scary stories.
 
 ## How to enter the challenge ?
 
@@ -43,10 +41,11 @@ scientific article before January 1st 2010 and this article must have some
 computational aspects (i.e. code).
 
 * **Step 1** You need to declare your interest in the challenge by posting on
-  this [GitHub issue]() the article you intend to reproduce (having your
-  article open access would be great). This does not engage you in any way.
-  We'll only use this GitHub thread to gently spam you with a few reminders
-  when we'll be close to the deadline (01/04/2020).
+  this [GitHub issue](https://github.com/ReScience/ten-years/issues/1) the
+  article you intend to reproduce (having your article open access would be
+  great). This does not engage you in any way.  We'll only use this GitHub
+  thread to gently spam you with a few reminders when we'll be close to the
+  deadline (01/04/2020).
 
 * **Step 2** You have to try to make your old code run on your current
   machine, documenting in the process what is necessary to make it work. For
