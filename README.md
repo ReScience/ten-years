@@ -7,12 +7,12 @@ published years ago? Did you encounter any problems? Were you successful?
 We are curious to hear your story. This is the reason why we are
 editing a special issue of ReScience to collect these stories.
 
-The ten years challenge is an invitation for researchers to try to run the code
-they've created for a scientific publication that was published more than **ten
-years ago**. This code can be anything (statistical analysis, numerical
-simulation, data processing, etc.), can be written in any language and can
-address any scientific domain. The only mandatory condition to enter the
-challenge is to have published a scientific article **before 2010**, in a
+The ten years reproducibility challenge is an invitation for researchers to try
+to run the code they've created for a scientific publication that was published
+more than **ten years ago**. This code can be anything (statistical analysis,
+numerical simulation, data processing, etc.), can be written in any language
+and can address any scientific domain. The only mandatory condition to enter
+the challenge is to have published a scientific article **before 2010**, in a
 journal or a conference with proceedings, which contains results produced by
 code, irrespectively of whether this code was published in some form at the
 time or not.
