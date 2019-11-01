@@ -129,3 +129,12 @@ a study on what are the *best* languages, libraries, and tools for reproducibili
   [Compat Disc readers](https://www.amazon.com/usb-cd-reader/s?k=usb+cd+reader)
   (on Amazon). Just in case you source code is only available on one of this
   archaic supports...
+
+* [Debian](http://debian.org) provides an
+  [archive](http://archive.debian.org) of the packages for the [past
+  releases (since 1998)](http://archive.debian.org/debian/dists/) and
+  [daily snapshots since 2005](http://snapshot.debian.org/), making it
+  feasible to find old versions of software of interest and
+  [debootstrap](https://wiki.debian.org/Debootstrap) old environments.
+  [NeuroDebian](http://neuro.debian.net) also provides
+  [snapshots of the repository since Sep 2010](http://snapshot-neuro.debian.net/archive/neurodebian/).
