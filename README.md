@@ -120,6 +120,8 @@ a study on what are the *best* languages, libraries, and tools for reproducibili
   unprivileged package management, and more. When used as a standalone
   distribution, Guix supports declarative system configuration for transparent
   and reproducible operating systems.
+
+* [Debian](https://www.debian.org/) is a free operating system (OS) with [reproducible build](https://reproducible-builds.org/) capacity.
   
 * The [National Museum of Computing](https://www.tnmoc.org/) is home to the
   world's largest collection of working historic computers.
