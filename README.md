@@ -30,7 +30,7 @@ code (see the [resources](#resources) section for help).
 
 The challenge will run for a few months, until **April 1st, 2020** (because
 we'll need time to review the different submissions). We'll organize a workshop
-in Bordeaux (France) sometime in **June 2020** (date not yet settled) to
+in Bordeaux (France) on **June 20th, 2020** to
 present the results. If you intend to participate to the challenge, make sure
 to also come to the workshop to hear some scary stories.
 
