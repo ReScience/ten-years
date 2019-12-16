@@ -59,7 +59,11 @@ computational aspects (i.e. code).
 
 * **Step 3** You have to write a reproducibility report for ReScience (any
   number of pages) and submit it. You'll have to indicate that this submission
-  is for the ten years special issue.
+  is for the ten years special issue. Since these reproducibility reports
+  are rather different from regular ReScience articles, please check the
+  [author guidelines](https://github.com/ReScience/ten-years/blob/master/author-guidelines.md)
+  that we have prepared specifically for this special issue (and be aware that
+  they might still evolve a bit).
 
 * **Step 4** Interact with reviewers during the open peer review and have your
   article published open access (no APC, ReScience is free to read and free to
