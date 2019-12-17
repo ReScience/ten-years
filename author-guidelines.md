@@ -17,7 +17,7 @@ Please provide only information you are certain about. It's OK to forget technic
 ### Retrieval of the software
 
 - Was it easy to find a copy of your source code?
-- Was it easy to locate the dependencies?
+- Was it easy to locate and setup the dependencies?
 - Provide a list of all dependencies (libraries but also tools such as compilers).
 
 ### Execution
