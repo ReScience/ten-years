@@ -31,7 +31,7 @@ Describe what you did in order to run the software today.
 - How close were the results you got to the originally published ones? Include the
   replicated data table and figure, as we do in other ReScience articles.
 
-If you had to make any modifications to the software or to the instructions that were supplied with it, try to describe which competence someone else that you would have to have in order to do the same work. Would a general familiarity with your programming language and environment have been sufficient?
+If you had to make any modifications to the software or to the instructions that were supplied with it, try to describe which competence another researcher would need in order to do the same work. Would a general familiarity with your programming language and environment have been sufficient?
 
 ## Software
 
