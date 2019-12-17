@@ -6,6 +6,10 @@ The reproducibility reports written by participants in the ten-years challenge a
 
 Please address the following topics to the extent that they make sense for your particular case.
 
+In addition to the content covered below, we are interested in the insight resulting from
+the reproducibility experience in relation to the choice of technology, and in your opinion
+on the original source code (clarity, documentation, etc).
+
 ### Historical context
 
 - Summarize the scientific question that your code was written to explore.
