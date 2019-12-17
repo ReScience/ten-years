@@ -10,7 +10,7 @@ Please address the following topics to the extent that they make sense for your 
 
 - Summarize the scientific question that your code was written to explore.
 - Describe the computational context: Which hardware was used to run the code? Which software infrastructure? Which constraints existed on software development? Which technical choices (language, libraries, ...) were made? Were reproducibility and/or re-usability important criteria?
-- Was the source code published? Was it archived somewhere?
+- About the original source code: Was it published? Was it archived somewhere? Was there a license for it?
 
 Please provide only information you are certain about. It's OK to forget technical details after many years.
 
@@ -28,7 +28,8 @@ Describe what you did in order to run the software today.
 - Describe the computational environment of the reproduction: hardware, operating system, compiler versions etc.
 - Did you have to modify the software in order to make it run today?
 - Were the original instructions that came with the software sufficient, or did you have to modify or extend them?
-- How close were the results you got to the originally published ones?
+- How close were the results you got to the originally published ones? Include the
+  replicated data table and figure, as we do in other ReScience articles.
 
 If you had to make any modifications to the software or to the instructions that were supplied with it, try to describe which competence someone else that you would have to have in order to do the same work. Would a general familiarity with your programming language and environment have been sufficient?
 
