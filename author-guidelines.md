@@ -35,4 +35,16 @@ If you had to make any modifications to the software or to the instructions that
 
 ## Software
 
-If the licenses applying to the original software allow, please make your old software available as a repository on GitHub or an equivalent site. Add your old software as a single commit (ideally the initial one), and then add commits containing modifications that you had to make, additional tools (scripts, makefiles, ...) that you wrote for re-running your software today, or additional instructions. Make sure your repository contains a license. Finaly, submit your repository to [Software Heritage](http://save.softwareheritage.org/) for archiving.
+If the licenses applying to the original software allow, please make your old software
+available as a repository on GitHub or an equivalent site. In the best case scenario, in
+which the old code is publishable, here is the procedure:
+
+1. Add your old software as a single commit (ideally the initial one) of a new source
+   repository.
+2. Edit the code as necessary to reproduce the results in today's computational environment,
+   committing the changes in logical units in the process. Include the additional tools
+   (scripts, makefiles, ...) that you wrote for re-running your software and the additional
+   instructions.
+3. Make sure your repository contains a license.
+4. Finaly, submit your repository to [Software Heritage](http://save.softwareheritage.org/)
+   for archiving.
