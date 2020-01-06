@@ -2,7 +2,7 @@
 
 # Ten Years Reproducibility Challenge
 
-Did you ever try to run an old code that you wrote for a scientific article you
+Did you ever try to run old code that you wrote for a scientific article you
 published years ago? Did you encounter any problems? Were you successful?
 We are curious to hear your story. This is the reason why we are
 editing a special issue of ReScience to collect these stories.
