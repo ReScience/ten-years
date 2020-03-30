@@ -28,9 +28,9 @@ code (see the [resources](#resources) section for help).
 
 ### Important dates
 
-The challenge will run for a few months, until **April 1st, 2020** (because
+The challenge will run for a few months, until **~April 1st, 2020~April 30th, 2020** (because
 we'll need time to review the different submissions). We'll organize a workshop
-in Bordeaux (France) on **June 22th, 2020** to
+in Bordeaux (France) ~on **June 22th, 2020**~ in autumn (date to be defined) to
 present the results. If you intend to participate to the challenge, make sure
 to also come to the workshop to hear some scary stories.
 
